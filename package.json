@@ -1,5 +1,7 @@
 {
-  "name": "vite-template",
+  "name": "yawuxi`s vite template",
+  "description": "Simple and configured vite-template with ESLint, Prettier, Sass and Axios",
+  "keywords": ["vite", "vite-template", "yawuxi"],
   "private": true,
   "version": "0.0.0",
   "type": "module",
