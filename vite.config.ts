@@ -17,6 +17,7 @@ export default defineConfig({
       types: path.resolve("src/types"),
       page: path.resolve("src/pages"),
       service: path.resolve("src/service"),
+      http: path.resolve("src/http"),
       layout: path.resolve("src/layout"),
       scss: path.resolve("src/scss"),
     },
